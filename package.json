@@ -1,0 +1,12 @@
+{
+  "name": "fe-practise",
+  "version": "1.0.0",
+  "description": "Frontend Practise Repo's",
+  "private": true,
+  "type": "module",
+  "author": "Sridhar Nallasamy <nsridharbtech@gmail.com> (https://sridhar-nallasamy.vercel.app/)",
+  "devDependencies": {
+    "lerna": "^8.1.8"
+  },
+  "dependencies": {}
+}
